@@ -12,19 +12,32 @@
 .letter {
     width: 5px;
     height: 5px;
-    display: block;
+    display: inline-block;
+    margin: 0px;
     zoom: 5;
 }
 
-.a {
-	background: url("../img/alphabet-sheet.png") 0 0; }
-.b {
-    background: url("../img/alphabet-sheet.png") -6px 0; }
-.c {
- 	background: url("../img/alphabet-sheet.png") -12px 0; }
-.d {
-	background: url("../img/alphabet-sheet.png") -18px 0; }
-.e {
-	background: url("../img/alphabet-sheet.png") -24px 0; }
-.f {
-	background: url("../img/alphabet-sheet.png") -30px 0; }
+.a { background: url("../img/alphabet-sheet.png") 0 0; }
+.b { background: url("../img/alphabet-sheet.png") -6px 0; }
+.c { background: url("../img/alphabet-sheet.png") -12px 0; }
+.d { background: url("../img/alphabet-sheet.png") -18px 0; }
+.e { background: url("../img/alphabet-sheet.png") -24px 0; }
+.f { background: url("../img/alphabet-sheet.png") -30px 0; }
+.g { background: url("../img/alphabet-sheet.png") 0 -6px; }
+.h { background: url("../img/alphabet-sheet.png") -6px -6px; }
+.i { background: url("../img/alphabet-sheet.png") -12px -6px; }
+.j { background: url("../img/alphabet-sheet.png") -18px -6px; }
+.k, .q { background: url("../img/alphabet-sheet.png") -24px -6px; }
+.l { background: url("../img/alphabet-sheet.png") -30px -6px; }
+.m { background: url("../img/alphabet-sheet.png") 0 -12px; }
+.n { background: url("../img/alphabet-sheet.png") -6px -12px; }
+.o { background: url("../img/alphabet-sheet.png") -12px -12px; }
+.p { background: url("../img/alphabet-sheet.png") -18px -12px; }
+.r { background: url("../img/alphabet-sheet.png") -24px -12px; }
+.s { background: url("../img/alphabet-sheet.png") -30px -12px; }
+.t { background: url("../img/alphabet-sheet.png") 0 -18px; }
+.u, .v { background: url("../img/alphabet-sheet.png") -6px -18px; }
+.w { background: url("../img/alphabet-sheet.png") -12px -18px; }
+.x { background: url("../img/alphabet-sheet.png") -18px -18px; }
+.y { background: url("../img/alphabet-sheet.png") -24px -18px; }
+.z { background: url("../img/alphabet-sheet.png") -30px -12px; }
