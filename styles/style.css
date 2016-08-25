@@ -17,9 +17,14 @@
 }
 
 .a {
-	background: url("alphabet-sheet.png") 0 0;
-}
-
+	background: url("../img/alphabet-sheet.png") 0 0; }
 .b {
-    background: url("alphabet-sheet.png") -6px 0;
-}
+    background: url("../img/alphabet-sheet.png") -6px 0; }
+.c {
+ 	background: url("../img/alphabet-sheet.png") -12px 0; }
+.d {
+	background: url("../img/alphabet-sheet.png") -18px 0; }
+.e {
+	background: url("../img/alphabet-sheet.png") -24px 0; }
+.f {
+	background: url("../img/alphabet-sheet.png") -30px 0; }
