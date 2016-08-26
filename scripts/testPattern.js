@@ -1,5 +1,5 @@
-window.onload = function() {
-	var body = document.querySelector("body");
+var testPattern = function() {
+	var display = document.getElementById("output");
 
 	var createDivs = function() {
 		var output = '';
@@ -11,5 +11,5 @@ window.onload = function() {
 		return output;
 	}
 
-	body.innerHTML = createDivs();
+	display.innerHTML += createDivs();
 }
